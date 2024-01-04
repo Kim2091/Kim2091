@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **Kim2091/Kim2091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## My projects:
+- [chaiNNer-Templates](https://github.com/Kim2091/chaiNNer-Templates) - My templates for the aformentioned tool chaiNNer. These are custom made chains to help you get started!
+- [training-info](https://github.com/Upscale-Community/training-info) - A base for info for training your image SR or restoration models. This is updated whenever there's new information
+
+## Tools I Recommend:
+- [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - This is a very good tool for inferencing AI models, but also for general image and video processing. It has a LOT of features and is very easy to get started with
+- [StaxRip](https://github.com/staxrip/staxrip) - Great video processing software that supports Avisynth and Vapoursynth
