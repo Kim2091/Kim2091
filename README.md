@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## My projects:
 - [chaiNNer-Templates](https://github.com/Kim2091/chaiNNer-Templates) - My templates for the aformentioned tool chaiNNer. These are custom made chains to help you get started!
 - [training-info](https://github.com/Upscale-Community/training-info) - A base for info for training your image SR or restoration models. This is updated whenever there's new information
+- [helpful-scripts](https://github.com/Kim2091/helpful-scripts) - Scripts intended to help accelerate your image SR training workflow
 
 ## Tools I Recommend:
 - [chaiNNer](https://github.com/chaiNNer-org/chaiNNer) - This is a very good tool for inferencing AI models, but also for general image and video processing. It has a LOT of features and is very easy to get started with
