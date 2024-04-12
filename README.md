@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 
 ## My projects:
 - [chaiNNer-Templates](https://github.com/Kim2091/chaiNNer-Templates) - My templates for the aformentioned tool chaiNNer. These are custom made chains to help you get started!
+
+
+### 🚀 Support my work!
+
+Any donations help pay living costs that would hinder my work on these repositories. PBRify is my main project currently. Any donation helps, even if it's just $1!
+
+(The name won't be Kim on the checkout page, that's okay)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
