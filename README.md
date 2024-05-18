@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ## My projects:
 - [chaiNNer-Templates](https://github.com/Kim2091/chaiNNer-Templates) - My templates for the aformentioned tool chaiNNer. These are custom made chains to help you get started!
-- [PBRify_Upscaler](https://github.com/Kim2091/PBRify_Upscaler) - My current main project. It's a set of upscalers and PBR generation models intended for use with RTX Remix. Trained exclusively on CC0 content!
+- [PBRify_Remix](https://github.com/Kim2091/PBRify_Remix) - My current main project. It's a set of upscalers and PBR generation models intended for use with RTX Remix. Trained exclusively on CC0 content!
 - [helpful-scripts](https://github.com/Kim2091/helpful-scripts) - A set of scripts intended to assist with training image SR models
 
 
