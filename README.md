@@ -22,6 +22,9 @@ Here are some ideas to get you started:
 - [chaiNNer-Templates](https://github.com/Kim2091/chaiNNer-Templates) - My templates for the aformentioned tool chaiNNer. These are custom made chains to help you get started!
 - [PBRify_Remix](https://github.com/Kim2091/PBRify_Remix) - My current main project. It's a set of upscalers and PBR generation models intended for use with RTX Remix. Trained exclusively on CC0 content!
 - [helpful-scripts](https://github.com/Kim2091/helpful-scripts) - A set of scripts intended to assist with training image SR models
+- [Kim2091-Models](https://github.com/Kim2091/Kim2091-Models) - My model repository, contains many of my released AI upscaling/restoration models
+- [RTX-Remix-Downloader](https://github.com/Kim2091/RTX-Remix-Downloader) - A simple downloader for the latest [RTX Remix](https://github.com/NVIDIAGameWorks/rtx-remix) releases
+- [image-comparison-tool](https://kim2091.github.io/image-comparison-tool/) - A simple website to compare two images in various ways
 
 
 ## 🚀 Support my work!
