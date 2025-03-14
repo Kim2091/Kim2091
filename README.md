@@ -31,6 +31,4 @@ Here are some ideas to get you started:
 
 Any donations help pay living costs that would hinder my work on these repositories. PBRify is my main project currently. Any donation helps, even if it's just $1!
 
-(The name won't be Kim on the checkout page, that's okay)
-
-**[Ko-Fi](https://ko-fi.com/J3J3BCC3L)**
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
