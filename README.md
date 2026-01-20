@@ -29,3 +29,6 @@ Here are some ideas to get you started:
 Any donations help pay living costs that would hinder my work on these repositories. PBRify is my main project currently. Any donation helps, even if it's just $1!
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
+
+## Want to talk?
+You can message me on Discord! My name on there is `kim2091`! Just send an initial message and explain what you want so I know it's not a scammer 😆.
