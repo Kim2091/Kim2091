@@ -14,11 +14,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 ## 🚀 Support my work!
 
 Please consider donating to help fund development of my projects (and keep me housed)!
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
+[![Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3BCC3L)
+
+[![Patreon](https://img.shields.io/badge/Patreon-Support%20me-FF424D?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/c/sparkles1/membership)
+
+Or use Litecoin: `ltc1qhcg3flgj45d2sr9u5zwkcu76txhgu7mptjwl6t`
+
 
 ## Want to talk?
 You can message me on Discord! My name on there is `kim2091`! Just send an initial message and explain what you want so I know it's not a scammer 😆.
